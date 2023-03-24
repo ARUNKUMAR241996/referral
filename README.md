@@ -1,5 +1,8 @@
 php version used = 8.1.12
 laravel version = 10.0
+node version = 18.15.0
+npm version = 9.6.2
+
 
 commands to be initiated for proper running of the project
 a)composer install
